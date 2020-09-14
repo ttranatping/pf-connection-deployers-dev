@@ -1,4 +1,3 @@
-exporting connection =  httpbin10.org
 <?xml version="1.0" encoding="UTF-8"?>
 <md:EntityDescriptor xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata" xmlns:urn="urn:sourceid.org:saml2:metadata-extension:v2" entityID="httpbin10.org" urn:name="httpbin10.org" urn:LogLevel="STANDARD" urn:isActive="true">
   <md:Extensions>
